@@ -1,10 +1,9 @@
 # Gaming Israel Theme
 The theme for the WordPress-based cloud system that powers gaming Israel
-# GNU General Public License v3.0
 
 ## Gaming Israel Theme Base ListingHive WordPress Theme
 
-Contributors: hivepress, IMS - Network 
+Contributors: hivepress, IMS - Network
 Requires at least: 5.0  
 Tested up to: 6.0  
 Requires PHP: 7.0  
